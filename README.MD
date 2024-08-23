@@ -19,7 +19,7 @@ To use the fork, follow the steps outlined below:
 1. Clone your forked repo.
 
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/solana-nft-anchor
+git clone https://github.com/montedev0516/solana-nft-anchor
 ```
 
 2. Change directory into the root of your cloned repo and install missing node packages
@@ -71,7 +71,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Questions
 
 Did you encounter a challenge following the tutorial or running the fork? 
-Head over to our [learning support](https://discord.com/channels/1130457754826461216/1132978998155165806) channel on our [Discord](https://discord.gg/38KftAhW) or alternatively, raise a ticket. 
+[Telegram](https://t.me/OxMonte)
 
 We are always happy to lend a helping hand
 
