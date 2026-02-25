@@ -70,8 +70,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Questions
 
-Did you encounter a challenge following the tutorial or running the fork? 
-[Telegram](https://t.me/OxMonte)
+Did you encounter a challenge following the tutorial or running the fork?
 
 We are always happy to lend a helping hand
 
